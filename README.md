@@ -1,5 +1,5 @@
 # printer
-Creality Ender 3 v2 printer formware config
+Creality Ender 3 v2 printer firmware config
 
 Modified to use Jyers, UBL, and Slice Engineerings 300*C Thermistor
 
